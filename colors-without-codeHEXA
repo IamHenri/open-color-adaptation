@@ -1,0 +1,277 @@
+<table>
+<tbody><!--Gray-->
+<td bgcolor="#f8f9fa"><td bgcolor="#f1f3f5"><td bgcolor="#e9ecef"><td bgcolor="#dee2e6"><td bgcolor="#ced4da"><td bgcolor="#adb5bd"><td bgcolor="#868e96"><td bgcolor="#495057"><td bgcolor="#343a40"><td bgcolor="#212529"><td bgcolor="#f8f9fa" width=55 height=34> f8f9fa</td>
+<td bgcolor="#f1f3f5" width=55></td>
+<td bgcolor="#e9ecef" width=55></td>
+<td bgcolor="#dee2e6" width=55></td>
+<td bgcolor="#ced4da" width=55></td>
+<td bgcolor="#adb5bd" width=55></td>
+<td bgcolor="#868e96" width=55></td>
+<td bgcolor="#7B838A" width=55></td>
+<td bgcolor="#71787E" width=55></td>
+<td bgcolor="#676D73" width=55>-</td><!-- -->
+<td bgcolor="#5C6267" width=55></td>
+<td bgcolor="#52575C" width=55></td>
+<td bgcolor="#484C50" width=55></td>
+<td bgcolor="#3D4145" width=55></td>
+<td bgcolor="#333639" width=55></td>
+<td bgcolor="#292B2E" width=55></td>
+<td bgcolor="#1E2022" width=55></td>
+<td bgcolor="#141517" width=55></td>
+<td bgcolor="#0A0A0B" width=55></td>
+<td bgcolor="#000000" width=55> </td>
+</tr><!--Red-->
+<td bgcolor="#fff5f5"><td bgcolor="#ffe3e3"><td bgcolor="#ffc9c9"><td bgcolor="#ffa8a8"><td bgcolor="#ff8787"><td bgcolor="#ff6b6b"><td bgcolor="#fa5252"><td bgcolor="#f03e3e"><td bgcolor="#e03131"><td bgcolor="#c92a2a"><td bgcolor="#fff5f5" height=34></td>
+<td bgcolor="#ffe3e3">-</td>
+<td bgcolor="#ffc9c9">-</td>
+<td bgcolor="#ffa8a8">-</td>
+<td bgcolor="#ff8787">-</td>
+<td bgcolor="#ff6b6b">-</td>
+<td bgcolor="#fa5252">-</td>
+<td bgcolor="#f03e3e">-</td>
+<td bgcolor="#e03131">-</td>
+<td bgcolor="#c92a2a">-</td><!-- -->
+<td bgcolor="#B42525">-</td>
+<td bgcolor="#A02121">-</td>
+<td bgcolor="#8C1D1D">-</td>
+<td bgcolor="#781919">-</td>
+<td bgcolor="#641515">-</td>
+<td bgcolor="#501010">-</td>
+<td bgcolor="#3C0C0C">-</td>
+<td bgcolor="#280808">-</td>
+<td bgcolor="#140404">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Pink-->
+<td bgcolor="#fff0f6"><td bgcolor="#ffdeeb"><td bgcolor="#fcc2d7"><td bgcolor="#faa2c1"><td bgcolor="#f783ac"><td bgcolor="#f06595"><td bgcolor="#e64980"><td bgcolor="#d6336c"><td bgcolor="#c2255c"><td bgcolor="#a61e4d"><td bgcolor="#fff0f6" height=34></td>
+<td bgcolor="#ffdeeb">-</td>
+<td bgcolor="#fcc2d7">-</td>
+<td bgcolor="#faa2c1">-</td>
+<td bgcolor="#f783ac">-</td>
+<td bgcolor="#f06595">-</td>
+<td bgcolor="#e64980">-</td>
+<td bgcolor="#d6336c">-</td>
+<td bgcolor="#c2255c">-</td>
+<td bgcolor="#a61e4d">-</td><!-- -->
+<td bgcolor="#951B45">-</td>
+<td bgcolor="#84183D">-</td>
+<td bgcolor="#741535">-</td>
+<td bgcolor="#63122E">-</td>
+<td bgcolor="#530F26">-</td>
+<td bgcolor="#420C1E">-</td>
+<td bgcolor="#310917">-</td>
+<td bgcolor="#21060F">-</td>
+<td bgcolor="#100307">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Grape-->
+<td bgcolor="#f8f0fc"><td bgcolor="#f3d9fa"><td bgcolor="#eebefa"><td bgcolor="#e599f7"><td bgcolor="#da77f2"><td bgcolor="#cc5de8"><td bgcolor="#be4bdb"><td bgcolor="#ae3ec9"><td bgcolor="#9c36b5"><td bgcolor="#862e9c"><td bgcolor="#f8f0fc" height=34></td>
+<td bgcolor="#f3d9fa">-</td>
+<td bgcolor="#eebefa">-</td>
+<td bgcolor="#e599f7">-</td>
+<td bgcolor="#da77f2">-</td>
+<td bgcolor="#cc5de8">-</td>
+<td bgcolor="#be4bdb">-</td>
+<td bgcolor="#ae3ec9">-</td>
+<td bgcolor="#9c36b5">-</td>
+<td bgcolor="#862e9c">-</td><!-- -->
+<td bgcolor="#78298C">-</td>
+<td bgcolor="#6B247C">-</td>
+<td bgcolor="#5D206D">-</td>
+<td bgcolor="#501B5D">-</td>
+<td bgcolor="#43174E">-</td>
+<td bgcolor="#35123E">-</td>
+<td bgcolor="#280D2E">-</td>
+<td bgcolor="#1A091F">-</td>
+<td bgcolor="#0D040F">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Violet-->
+<td bgcolor="#f3f0ff"><td bgcolor="#e5dbff"><td bgcolor="#d0bfff"><td bgcolor="#b197fc"><td bgcolor="#9775fa"><td bgcolor="#845ef7"><td bgcolor="#7950f2"><td bgcolor="#7048e8"><td bgcolor="#6741d9"><td bgcolor="#5f3dc4"><td bgcolor="#f3f0ff" height=34></td>
+<td bgcolor="#e5dbff">-</td>
+<td bgcolor="#d0bfff">-</td>
+<td bgcolor="#b197fc">-</td>
+<td bgcolor="#9775fa">-</td>
+<td bgcolor="#845ef7">-</td>
+<td bgcolor="#7950f2">-</td>
+<td bgcolor="#7048e8">-</td>
+<td bgcolor="#6741d9">-</td>
+<td bgcolor="#5f3dc4">-</td><!-- -->
+<td bgcolor="#5536B0">-</td>
+<td bgcolor="#4C309C">-</td>
+<td bgcolor="#422A89">-</td>
+<td bgcolor="#392475">-</td>
+<td bgcolor="#2F1E62">-</td>
+<td bgcolor="#26184E">-</td>
+<td bgcolor="#1C123A">-</td>
+<td bgcolor="#130C27">-</td>
+<td bgcolor="#090613">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Indigo-->
+<td bgcolor="#edf2ff"><td bgcolor="#dbe4ff"><td bgcolor="#bac8ff"><td bgcolor="#91a7ff"><td bgcolor="#748ffc"><td bgcolor="#5c7cfa"><td bgcolor="#4c6ef5"><td bgcolor="#4263eb"><td bgcolor="#3b5bdb"><td bgcolor="#364fc7"><td bgcolor="#edf2ff" height=34></td>
+<td bgcolor="#dbe4ff">-</td>
+<td bgcolor="#bac8ff">-</td>
+<td bgcolor="#91a7ff">-</td>
+<td bgcolor="#748ffc">-</td>
+<td bgcolor="#5c7cfa">-</td>
+<td bgcolor="#4c6ef5">-</td>
+<td bgcolor="#4263eb">-</td>
+<td bgcolor="#3b5bdb">-</td>
+<td bgcolor="#364fc7">-</td><!-- -->
+<td bgcolor="#3047B3">-</td>
+<td bgcolor="#2B3F9F">-</td>
+<td bgcolor="#25378B">-</td>
+<td bgcolor="#202F77">-</td>
+<td bgcolor="#1B2763">-</td>
+<td bgcolor="#151F4F">-</td>
+<td bgcolor="#10173B">-</td>
+<td bgcolor="#0A0F27">-</td>
+<td bgcolor="#050713">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Blue-->
+<td bgcolor="#e7f5ff"><td bgcolor="#d0ebff"><td bgcolor="#a5d8ff"><td bgcolor="#74c0fc"><td bgcolor="#4dabf7"><td bgcolor="#339af0"><td bgcolor="#228be6"><td bgcolor="#1c7ed6"><td bgcolor="#1971c2"><td bgcolor="#1864ab"><td bgcolor="#e7f5ff" height=34></td>
+<td bgcolor="#d0ebff">-</td>
+<td bgcolor="#a5d8ff">-</td>
+<td bgcolor="#74c0fc">-</td>
+<td bgcolor="#4dabf7">-</td>
+<td bgcolor="#339af0">-</td>
+<td bgcolor="#228be6">-</td>
+<td bgcolor="#1c7ed6">-</td>
+<td bgcolor="#1971c2">-</td>
+<td bgcolor="#1864ab">-</td><!-- -->
+<td bgcolor="#155A99">-</td>
+<td bgcolor="#135088">-</td>
+<td bgcolor="#104677">-</td>
+<td bgcolor="#0E3C66">-</td>
+<td bgcolor="#0C3255">-</td>
+<td bgcolor="#092844">-</td>
+<td bgcolor="#071E33">-</td>
+<td bgcolor="#041422">-</td>
+<td bgcolor="#020A11">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Cyan-->
+<td bgcolor="#e3fafc"><td bgcolor="#c5f6fa"><td bgcolor="#99e9f2"><td bgcolor="#66d9e8"><td bgcolor="#3bc9db"><td bgcolor="#22b8cf"><td bgcolor="#15aabf"><td bgcolor="#1098ad"><td bgcolor="#0c8599"><td bgcolor="#0b7285"><td bgcolor="#e3fafc" height=34></td>
+<td bgcolor="#c5f6fa">-</td>
+<td bgcolor="#99e9f2">-</td>
+<td bgcolor="#66d9e8">-</td>
+<td bgcolor="#3bc9db">-</td>
+<td bgcolor="#22b8cf">-</td>
+<td bgcolor="#15aabf">-</td>
+<td bgcolor="#1098ad">-</td>
+<td bgcolor="#0c8599">-</td>
+<td bgcolor="#0b7285">-</td><!-- -->
+<td bgcolor="#096677">-</td>
+<td bgcolor="#085B6A">-</td>
+<td bgcolor="#074F5D">-</td>
+<td bgcolor="#06444F">-</td>
+<td bgcolor="#053942">-</td>
+<td bgcolor="#042D35">-</td>
+<td bgcolor="#032227">-</td>
+<td bgcolor="#02161A">-</td>
+<td bgcolor="#010B0D">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Teal-->
+<td bgcolor="#e6fcf5"><td bgcolor="#c3fae8"><td bgcolor="#96f2d7"><td bgcolor="#63e6be"><td bgcolor="#38d9a9"><td bgcolor="#20c997"><td bgcolor="#12b886"><td bgcolor="#0ca678"><td bgcolor="#099268"><td bgcolor="#087f5b"><td bgcolor="#e6fcf5" height=34></td>
+<td bgcolor="#c3fae8">-</td>
+<td bgcolor="#96f2d7">-</td>
+<td bgcolor="#63e6be">-</td>
+<td bgcolor="#38d9a9">-</td>
+<td bgcolor="#20c997">-</td>
+<td bgcolor="#12b886">-</td>
+<td bgcolor="#0ca678">-</td>
+<td bgcolor="#099268">-</td>
+<td bgcolor="#087f5b">-</td><!-- -->
+<td bgcolor="#077251">-</td>
+<td bgcolor="#066548">-</td>
+<td bgcolor="#05583F">-</td>
+<td bgcolor="#044C36">-</td>
+<td bgcolor="#043F2D">-</td>
+<td bgcolor="#033224">-</td>
+<td bgcolor="#02261B">-</td>
+<td bgcolor="#011912">-</td>
+<td bgcolor="#000C09">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Green-->
+<td bgcolor="#ebfbee"><td bgcolor="#d3f9d8"><td bgcolor="#b2f2bb"><td bgcolor="#8ce99a"><td bgcolor="#69db7c"><td bgcolor="#51cf66"><td bgcolor="#40c057"><td bgcolor="#37b24d"><td bgcolor="#2f9e44"><td bgcolor="#2b8a3e"><td bgcolor="#ebfbee" height=34></td>
+<td bgcolor="#d3f9d8">-</td>
+<td bgcolor="#b2f2bb">-</td>
+<td bgcolor="#8ce99a">-</td>
+<td bgcolor="#69db7c">-</td>
+<td bgcolor="#51cf66">-</td>
+<td bgcolor="#40c057">-</td>
+<td bgcolor="#37b24d">-</td>
+<td bgcolor="#2f9e44">-</td>
+<td bgcolor="#2b8a3e">-</td><!-- -->
+<td bgcolor="#267C37">-</td>
+<td bgcolor="#226E31">-</td>
+<td bgcolor="#1E602B">-</td>
+<td bgcolor="#195225">-</td>
+<td bgcolor="#15451F">-</td>
+<td bgcolor="#113718">-</td>
+<td bgcolor="#0C2912">-</td>
+<td bgcolor="#081B0C">-</td>
+<td bgcolor="#040D06">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Lime-->
+<td bgcolor="#f4fce3"><td bgcolor="#e9fac8"><td bgcolor="#d8f5a2"><td bgcolor="#c0eb75"><td bgcolor="#a9e34b"><td bgcolor="#94d82d"><td bgcolor="#82c91e"><td bgcolor="#74b816"><td bgcolor="#66a80f"><td bgcolor="#5c940d"><td bgcolor="#f4fce3" height=34></td>
+<td bgcolor="#e9fac8">-</td>
+<td bgcolor="#d8f5a2">-</td>
+<td bgcolor="#c0eb75">-</td>
+<td bgcolor="#a9e34b">-</td>
+<td bgcolor="#94d82d">-</td>
+<td bgcolor="#82c91e">-</td>
+<td bgcolor="#74b816">-</td>
+<td bgcolor="#66a80f">-</td>
+<td bgcolor="#5c940d">-</td><!-- -->
+<td bgcolor="#52850B">-</td>
+<td bgcolor="#49760A">-</td>
+<td bgcolor="#406709">-</td>
+<td bgcolor="#375807">-</td>
+<td bgcolor="#2E4A06">-</td>
+<td bgcolor="#243B05">-</td>
+<td bgcolor="#1B2C03">-</td>
+<td bgcolor="#121D02">-</td>
+<td bgcolor="#090E01">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Yellow-->
+<td bgcolor="#fff9db"><td bgcolor="#fff3bf"><td bgcolor="#ffec99"><td bgcolor="#ffe066"><td bgcolor="#ffd43b"><td bgcolor="#fcc419"><td bgcolor="#fab005"><td bgcolor="#f59f00"><td bgcolor="#f08c00"><td bgcolor="#e67700"><td bgcolor="#fff9db" height=34></td>
+<td bgcolor="#fff3bf">-</td>
+<td bgcolor="#ffec99">-</td>
+<td bgcolor="#ffe066">-</td>
+<td bgcolor="#ffd43b">-</td>
+<td bgcolor="#fcc419">-</td>
+<td bgcolor="#fab005">-</td>
+<td bgcolor="#f59f00">-</td>
+<td bgcolor="#f08c00">-</td>
+<td bgcolor="#e67700">-</td><!-- -->
+<td bgcolor="#CF6B00">-</td>
+<td bgcolor="#B85F00">-</td>
+<td bgcolor="#A15300">-</td>
+<td bgcolor="#8A4700">-</td>
+<td bgcolor="#733B00">-</td>
+<td bgcolor="#5C2F00">-</td>
+<td bgcolor="#452300">-</td>
+<td bgcolor="#2E1700">-</td>
+<td bgcolor="#170B00">-</td>
+<td bgcolor="#000000">-</td>
+</tr><!--Orange-->
+<td bgcolor="#fff4e6"><td bgcolor="#ffe8cc"><td bgcolor="#ffd8a8"><td bgcolor="#ffc078"><td bgcolor="#ffa94d"><td bgcolor="#ff922b"><td bgcolor="#fd7e14"><td bgcolor="#f76707"><td bgcolor="#e8590c"><td bgcolor="#d9480f"><td bgcolor="#fff4e6" height=34></td>
+<td bgcolor="#ffe8cc">-</td>
+<td bgcolor="#ffd8a8">-</td>
+<td bgcolor="#ffc078">-</td>
+<td bgcolor="#ffa94d">-</td>
+<td bgcolor="#ff922b">-</td>
+<td bgcolor="#fd7e14">-</td>
+<td bgcolor="#f76707">-</td>
+<td bgcolor="#e8590c">-</td>
+<td bgcolor="#d9480f">-</td><!-- -->
+<td bgcolor="#C3400D">-</td>
+<td bgcolor="#AD390C">-</td>
+<td bgcolor="#97320A">-</td>
+<td bgcolor="#822B09">-</td>
+<td bgcolor="#6C2407">-</td>
+<td bgcolor="#561C06">-</td>
+<td bgcolor="#411504">-</td>
+<td bgcolor="#2B0E03">-</td>
+<td bgcolor="#150701">-</td>
+<td bgcolor="#000000">-</td>
+</tr>
+</tbody>
+</table>
